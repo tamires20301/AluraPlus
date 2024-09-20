@@ -1,0 +1,42 @@
+body{
+   background-color:black;
+   color:white;
+}
+.principal{
+   background-image: url("Background.png");
+   height:100vh;
+   align-items: center;
+   text-align: center;
+   display: grid;
+   grid-template-columns: 50% 50%;
+}
+ .img_combo{
+   margin-bottom: 50px;
+ }
+ .p2{ 
+   align-items: center;
+   text-align: center;
+   display: grid;
+   grid-template-columns: 50% 50%;
+}
+.titulo2{
+   margin-bottom: 50px;
+}
+ .p3 {
+ align-items: center;
+ text-align: center;
+ display: grid;
+ grid-template-columns: 50% 50%;
+}
+ .p4{ 
+   align-items: center;
+   text-align: center;
+   display: grid;
+   grid-template-columns: 50% 50%;
+}
+.botão {
+   display:block;
+   color:white;
+   background:blue;
+   padding:10px;
+}
